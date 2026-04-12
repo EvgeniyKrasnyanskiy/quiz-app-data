@@ -1,7 +1,8 @@
 {
-  "title": "Медицинская физика: Тест 2026",
+  "title": "Квиз-платформа",
+  "welcomeDesc": "Добро пожаловать в систему тестирования.",
+  "loadingDesc": "Выберите файл теста или вставьте ссылку ниже:",
   "adminCode": "2026",
-  "xorKey": "MedicalPhysicsSecret",
-  "welcomeDesc": "Добро пожаловать!",
-  "loadingDesc": "Пожалуйста, выберите файл .dat, полученный от преподавателя."
+  "xorKey": "YourCustomSecretKey",
+  "reportEmail": "evgeniy.krasnyanskiy@gmail.com"
 }
