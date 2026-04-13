@@ -1,8 +1,8 @@
 {
   "title": "Квиз-платформа",
-  "welcomeDesc": "Добро пожаловать в систему тестирования.",
+  "welcomeDesc": "Добро пожаловать в систему тестирования!",
   "loadingDesc": "Выберите файл теста или вставьте ссылку ниже:",
   "adminCode": "2026",
-  "xorKey": "YourCustomSecretKey",
+  "xorKey": "MedicalPhysicsSecret",
   "reportEmail": "evgeniy.krasnyanskiy@gmail.com"
 }
