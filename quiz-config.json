@@ -1,7 +1,14 @@
 {
   "title": "Квиз-платформа",
-  "welcomeDesc": "Добро пожаловать в систему тестирования!",
-  "loadingDesc": "Выберите файл теста или вставьте ссылку ниже",
+  "welcomeDesc": "Добро пожаловать в профессиональную систему тестирования знаний!",
+  "loadingDesc": "Выберите файл теста (.dat) на устройстве или вставьте прямую ссылку для загрузки.",
+  "prestartText": "Внимательно читайте вопросы. Время прохождения ограничено. Удачи!",
   "adminCode": "777",
-  "reportEmail": "evgeniy.krasnyanskiy@gmail.com"
+  "reportEmail": "evgeniy.krasnyanskiy@gmail.com",
+  "allowedQuizHosts": [
+    "raw.githubusercontent.com",
+    "drive.google.com"
+  ],
+  "maxQuizFileBytes": 524288,
+  "remoteFetchTimeoutMs": 5000
 }
