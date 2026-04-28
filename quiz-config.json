@@ -2,7 +2,6 @@
   "title": "Квиз-платформа",
   "welcomeDesc": "Добро пожаловать в систему тестирования!",
   "loadingDesc": "Выберите файл теста или вставьте ссылку ниже",
-  "adminCode": "2026",
-  "xorKey": "MedicalPhysicsSecret",
+  "adminCode": "777",
   "reportEmail": "evgeniy.krasnyanskiy@gmail.com"
 }
