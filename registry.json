@@ -4,11 +4,5 @@
     "title": "CloudMat",
     "qCount": 2,
     "fileName": "CloudMat.dat"
-  },
-  {
-    "id": "Math3",
-    "title": "Math3",
-    "qCount": 10,
-    "fileName": "Math3.dat"
   }
 ]
