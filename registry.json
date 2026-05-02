@@ -4,5 +4,11 @@
     "title": "CloudMatTest",
     "qCount": 2,
     "fileName": "CloudMatTest.dat"
+  },
+  {
+    "id": "MathSumSub",
+    "title": "MathSumSub",
+    "qCount": 20,
+    "fileName": "MathSumSub.dat"
   }
 ]
