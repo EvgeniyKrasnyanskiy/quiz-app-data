@@ -10,5 +10,11 @@
     "title": "MathSumSub",
     "qCount": 20,
     "fileName": "MathSumSub.dat"
+  },
+  {
+    "id": "MathSumSubEq",
+    "title": "MathSumSubEq",
+    "qCount": 20,
+    "fileName": "MathSumSubEq.dat"
   }
 ]
