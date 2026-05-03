@@ -1,9 +1,8 @@
 {
-  "title": "QuizMaster 2.0",
+  "title": "QuizMaster 2.2",
+  "adminCode": "777",
   "welcomeDesc": "Добро пожаловать!",
   "loadingDesc": "Загрузка параметров системы...",
-  "prestartText": "Тест загружен успешно!\nВопросов: {count}\nВнимательно читайте каждый вопрос. Удачи!",
-  "adminCode": "777",
   "reportEmail": "reports@example.com",
   "allowedQuizHosts": [
     "raw.githubusercontent.com",
@@ -11,5 +10,7 @@
   ],
   "maxQuizFileBytes": 5242880,
   "remoteFetchTimeoutMs": 15000,
-  "TEST_COOLDOWN_MS": 3600000
+  "TEST_COOLDOWN_MS": 3600000,
+  "disabled": false,
+  "prestartText": "Тест загружен успешно!\nВопросов: {count}\nВнимательно читайте каждый вопрос. Удачи!"
 }
