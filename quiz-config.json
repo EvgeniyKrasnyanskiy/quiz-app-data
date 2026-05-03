@@ -1,15 +1,15 @@
 {
-  "title": "Квиз-платформа 2.0",
-  "welcomeDesc": "Добро пожаловать в профессиональную систему тестирования знаний!",
-  "loadingDesc": "Выберите файл теста (.dat) на устройстве или вставьте прямую ссылку для загрузки.",
-  "prestartText": "Внимательно читайте вопросы. Время прохождения иногда ограничено. Удачи!",
+  "title": "QuizMaster 2.0",
+  "welcomeDesc": "Добро пожаловать!",
+  "loadingDesc": "Загрузка параметров системы...",
+  "prestartText": "Тест загружен успешно!\nВопросов: {count}\nВнимательно читайте каждый вопрос. Удачи!",
   "adminCode": "777",
-  "reportEmail": "evgeniy.krasnyanskiy@gmail.com",
+  "reportEmail": "reports@example.com",
   "allowedQuizHosts": [
     "raw.githubusercontent.com",
-    "drive.google.com"
+    "github.com"
   ],
-  "maxQuizFileBytes": 524288,
-  "remoteFetchTimeoutMs": 5000,
-  "TEST_COOLDOWN_MS": 3600000 
+  "maxQuizFileBytes": 5242880,
+  "remoteFetchTimeoutMs": 15000,
+  "TEST_COOLDOWN_MS": 3600000
 }
