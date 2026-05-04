@@ -12,5 +12,5 @@
   "remoteFetchTimeoutMs": 15000,
   "TEST_COOLDOWN_MS": 3600000,
   "disabled": false,
-  "prestartText": "Тест загружен успешно!\nВопросов: {count}\nВнимательно читайте каждый вопрос. Удачи!"
+  "prestartText": "Тест загружен успешно!\nВнимательно читайте каждый вопрос. Удачи!"
 }
